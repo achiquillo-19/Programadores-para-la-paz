@@ -1,0 +1,13 @@
+La interfaz de esta plataforma comunitaria tendría una sección principal para
+crear una nueva causa, con un formulario que incluye campos de título,
+descripción, categoría y fecha.
+Debajo del formulario, se mostraría una vista de causas disponibles, listadas
+en forma de tarjetas o filas, donde cada una muestra su título, una breve
+descripción y la fecha en que fue creada.
+Cada causa tendría un botón de apoyo, que permite a un usuario autenticado
+manifestar su respaldo con un solo clic, y junto a este botón se mostraría un
+contador de apoyos que se actualiza en tiempo real, indicando cuántas
+personas han apoyado esa causa hasta el momento.
+La interfaz debe ser clara y sencilla, priorizando la facilidad de uso para
+cualquier miembro de la comunidad, y en ningún momento debe mostrar
+información privada de los usuarios, como su correo, teléfono o contraseña.

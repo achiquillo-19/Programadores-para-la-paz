@@ -1,0 +1,31 @@
+Entidad: Causa
+Campos principales:
+- id
+- titulo
+- descripcion
+- categoria
+- fecha_creacion
+Propósito:
+Almacenar las causas comunitarias registradas por los usuarios, para que
+puedan ser visibles públicamente en la plataforma y otros ciudadanos puedan
+conocerlas y apoyarlas.
+Entidad: Apoyo
+Campos principales:
+- id
+- causa_id
+- usuario_id
+- fecha
+Propósito:
+Registrar cada apoyo recibido por una causa, permitiendo llevar un conteo de
+participación y hacer seguimiento a qué tan activa es cada iniciativa.
+Entidad: Usuario
+Campos principales:
+- id
+- nombre_usuario
+- correo
+- contrasena_hash
+- rol
+Propósito:
+Guardar la información básica necesaria para identificar a cada usuario dentro
+del sistema y controlar su acceso, sin exponer datos sensibles como la
+contraseña en texto plano.
