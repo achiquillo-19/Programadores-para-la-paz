@@ -1,0 +1,7 @@
+Actividad 1: Cuestionario de la semana 1
+Pregunta 1:¿Cual de los siguientes no es un componente de hardware?
+Respuesta:B)Sistema Operativo
+Prengunta 2:¿Que Unidad de medida se utiliza para la velocidad dell procesador?
+Repuesta:C)Hertz(Hz)
+Pregunta 3:¿Cual es la funcion principal de la memoria RAM?
+Repusta:B)Almacenamiento temporal de datos para el procesador

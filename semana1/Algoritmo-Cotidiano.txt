@@ -1,0 +1,7 @@
+Actividad 3: Algoritmo para Preparar un Café
+1.Inicio: Reunir los elementos necesarios (café, agua, olla o cafetera, pocillo).
+2.Calentar agua: Poner a hervir la cantidad de agua necesaria en la estufa.
+3.Preparar el filtro: Colocar el café molido en el filtro de la cafetera o directamente si es instantáneo.
+4.Mezclar: Verter el agua caliente sobre el café con cuidado para evitar quemaduras.
+5.Servir: Pasar el café al pocillo y añadir azúcar o panela al gusto.
+6.Fin: Disfrutar de una taza de café caliente.
