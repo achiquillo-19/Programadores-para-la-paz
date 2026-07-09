@@ -1,0 +1,15 @@
+Historias de usuarios encontrada (ordenadas de mayor a menor prioridad):
+
+1. Como ciudadano quiero registrar una incidencia para dejar evidencia del caso.
+
+2. Como coordinador quiero recibir una alerta en Telegram para revisar un nuevo
+   reporte apenas se registre.
+
+3. Como miembro del equipo quiero consultar los reportes existentes para hacer
+   seguimiento a su estado.
+
+4. Como ciudadano quiero ver el estado de mi reporte (pendiente, en revisión,
+   resuelto) para saber si está siendo atendido.
+
+5. Como coordinador quiero generar un resumen semanal de reportes para
+   compartirlo con la comunidad.
