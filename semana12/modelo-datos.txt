@@ -1,0 +1,22 @@
+MODELO DE DATOS
+Entidad: Causa
+
+Atributos:
+- id
+- titulo
+- descripcion
+- fecha
+
+Descripción:
+Esta entidad almacena la información de cada causa creada por un ciudadano. Cada causa tiene un identificador único, un título, una descripción y la fecha en que fue registrada.
+
+Entidad: Apoyo
+
+Atributos:
+- id
+- causa_id
+- nombre
+- fecha
+
+Descripción:
+Esta entidad registra los apoyos que recibe una causa. Cada apoyo tiene un identificador, está relacionado con una causa mediante el campo causa_id, guarda el nombre de la persona que apoya y la fecha en que se realizó el apoyo.
